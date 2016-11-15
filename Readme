@@ -1,0 +1,11 @@
+Zachary Vogel Portfolio
+
+Hello to whoever is reading
+This is a small set of projects I have worked on in the past year or so.
+It includes a controller design and simulation for a Tape Drive system.
+
+The other controls project was for a furuta pendulum.
+
+It also containes a threaded opencv executable that implements some simple transforms.`
+
+As well as that there is some less abstracted c code for a microcontroller project where my partner and I were supposed to implement a simple logger using pretty barebones existing code.
