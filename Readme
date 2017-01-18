@@ -9,3 +9,7 @@ The other controls project was for a furuta pendulum.
 It also containes a threaded opencv executable that implements some simple transforms.`
 
 As well as that there is some less abstracted c code for a microcontroller project where my partner and I were supposed to implement a simple logger using pretty barebones existing code.
+
+Also a Kalman filter simulation project. 
+
+One thing I want to note if your reading this is that most all of this was rushed, and thus minimal time was allocated for proper coding practice and commenting.
